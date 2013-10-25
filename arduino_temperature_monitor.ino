@@ -31,11 +31,12 @@
  - Arduino Ethernet Shield
  - Dallas Semiconductor DS18B20 1-Wire Temp sensor used in parasite power mode (on data pin 7, with 4.7k pull-up)
  
- Version:
- 1.0 - November 8, 2010 - by M. Aanenson
- 2.0 - July 6, 2012 - by M. Aanenson
- 3.0 - October 25, 2013 - by M. Aanenson - Note: Updated to use latest Exosite Arduino Library
- */
+Version History:
+- 1.0 - November 8, 2010 - by M. Aanenson
+- 2.0 - July 6, 2012 - by M. Aanenson
+- 3.0 - October 25, 2013 - by M. Aanenson - Note: Updated to use latest Exosite Arduino Library
+
+*/
   
   
 #include <SPI.h>
